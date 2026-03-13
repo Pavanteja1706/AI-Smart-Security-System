@@ -6,6 +6,7 @@ __pycache__/
 .env
 captures/
 email_status.txt
+known_faces/
 
 # Large files
 yolov8n.pt
