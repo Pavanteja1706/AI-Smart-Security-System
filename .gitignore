@@ -6,3 +6,20 @@ __pycache__/
 .env
 captures/
 email_status.txt
+
+# Large files
+yolov8n.pt
+ngrok.exe
+*.whl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs / runtime files
+captures/
+email_status.txt
+events.txt
